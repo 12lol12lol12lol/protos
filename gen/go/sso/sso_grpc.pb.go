@@ -4,7 +4,7 @@
 // - protoc             v4.24.3
 // source: sso/sso.proto
 
-package sso
+package ssov1
 
 import (
 	context "context"
